@@ -8,7 +8,6 @@ public class CarExample {
 		Car myCar = new Car("검정", 1500);
 		
 		Car myCar1 = new Car();
-
 	}
 
 }
